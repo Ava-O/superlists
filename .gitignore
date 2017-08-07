@@ -2,3 +2,8 @@ db.sqlite3
 geckodriver.log
 __pycache__
 *.pyc
+
+
+# User-specific stuff:
+**/.idea/workspace.xml 
+**/.idea/tasks.xml
